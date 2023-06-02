@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔗 My linkedIn https://www.linkedin.com/in/rodrigo-neto-531955279/
 - 📧 rodrigonetonegocios@gmail.com
 
-![](https://cdn.dribbble.com/users/525908/screenshots/2901614/media/deabc994ee090b67c54d5cbb4cd16b75.png?compress=1&resize=768x576&vertical=top)
+![]
 <br>
 
 <b>Top Repositories</b>

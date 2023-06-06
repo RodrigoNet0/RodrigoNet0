@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 </span>
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<br>
 
 <div align="center">
 <img src="https://pplware.sapo.pt/wp-content/uploads/2020/12/git_capa-720x360.jpg" width="700px" />

@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🐦 My Duolingo https://www.duolingo.com/profile/_rodrigo.neto
 - 🔗 My linkedIn https://www.linkedin.com/in/rodrigo-neto-531955279/
 - 📧 My instagram https://www.instagram.com/rodrigo.neto/
-
+- 🗺️ I'am from Brazil-Fortaleza-Ceará
 
 <span align="center">
 

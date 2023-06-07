@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 </span>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <br>
 
 <div align="center">

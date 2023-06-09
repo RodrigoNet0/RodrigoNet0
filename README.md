@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+## Helloo World! 👋 
 
 </span>
 

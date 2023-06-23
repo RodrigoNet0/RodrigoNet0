@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
-<img src="https://pplware.sapo.pt/wp-content/uploads/2020/12/git_capa-720x360.jpg" width="700px" />
-</div>
+
 
 
 <p align="center">

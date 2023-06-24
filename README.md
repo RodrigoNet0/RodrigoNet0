@@ -1,74 +1,32 @@
+## Hello! I'm  Rodrigo Neto 🖐️
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/rodrigoneto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigo.neto)
+<a href="https://www.linkedin.com/in/rodrigo-neto-531955279/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+  [![FreecodeCamp](https://img.shields.io/badge/Freecodecamp-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/FreecodeCamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.freecodecamp.org/portuguese/Rodrigoneto)
+  [![Duolingo](https://img.shields.io/badge/Duolingo-43853D?style=for-the-badge&logo=node.js&logoColor=white")](https://www.duolingo.com/profile/_rodrigo.neto)
 
-
-Here are some ideas to get you started:
-
-- 🧠  I'm learning tech skills for Fullstack, from Backend to Frontend.
-- 🤝  I'm open to collaborating on Projects for beginners
-- 🤔 My freecodecamp www.freecodecamp.org/Rodrigoneto
-- 🐦 My Duolingo https://www.duolingo.com/profile/_rodrigo.neto
-- 🔗 My linkedIn https://www.linkedin.com/in/rodrigo-neto-531955279/
-- 📧 My instagram https://www.instagram.com/rodrigo.neto/
-- 🗺️ I'am from Brazil-Fortaleza-Ceará
-
-<span align="center">
-
-## Helloo World! 👋 
-
-</span>
-
-<br>
-
-
-
-
-<p align="center">
-  Heey! So good to see you here. <br>I'm Rodrigo, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also.<br />
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
-
-</p>
-
-<p align="center">
+<p>
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
 </p>
 
-<p align="center">
+<p>
   👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
 </p>
 
 
-<p align="center">
-  💌 Text me: ⤵️
-</p>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNet0&show_icons=true&theme=dracula&count_private=true)
 
-<p align="center">
-  <a href="https://www.instagram.com/rodrigo.neto/"/></a>
-  <a href="https://www.linkedin.com/in/rodrigo-neto-531955279/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
-<p align="center">
- </p>
+## 💻 Technologies & Tools
 
- <div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
-</div>
-
-
- <p align="center">   <strong>💻 Technologies & Tools</strong>
-
-   
-
- <div style="display: inline_block"> <p align="center">
+<div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-
-
-
-
-<!--
+### Passionate about technology, education, sports and changing people's lives through programming.

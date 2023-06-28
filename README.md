@@ -21,6 +21,8 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoNet0&show_icons=true&theme=dracula&count_private=true)
 
+
+
 ## 💻 Technologies & Tools
 
 <div style="display: inline_block">

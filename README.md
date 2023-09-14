@@ -18,10 +18,6 @@
   👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
 </p>
 
-
-
-
-
 ## 💻 Technologies & Tools
 
 <p align="left">

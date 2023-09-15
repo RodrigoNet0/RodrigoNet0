@@ -9,7 +9,8 @@
   [![Duolingo](https://img.shields.io/badge/Duolingo-43853D?style=for-the-badge&logo=node.js&logoColor=white")](https://www.duolingo.com/profile/_rodrigo.neto)
   <a href="https://www.github.com/RodrigoNet0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RodrigoNet0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNet0&layout=compact)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoNet0&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoNet0&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RodrigoNet0&theme=nord_dark) |
+| :-: | :-: | :-: |
 
 <p>
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>

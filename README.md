@@ -18,9 +18,6 @@
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
 </p>
 
-<p>
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
-</p>
 
 ## 💻 Technologies & Tools
 

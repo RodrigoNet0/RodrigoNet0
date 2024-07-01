@@ -1,5 +1,8 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Rodrigo%20Neto&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
+
+
 # Hello! I'm  Rodrigo Neto 🖐️   
-##  Fullstack Developer<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigonet0&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigonet0" /> </p>
+##  Frontend  Developer<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigonet0&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigonet0" /> </p>
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC88EMkEUKTQElLFO-hjBhEg)

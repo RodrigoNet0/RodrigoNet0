@@ -61,4 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-### Passionate about technology, education, sports and changing people's lives through programming.
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rodrigonet0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

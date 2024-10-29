@@ -1,9 +1,13 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Rodrigo%20Neto&fontAlignY=40&color=0:6EBBFF,100:000cff&fontColor=fff)
-
-
 # Hello! I'm  Rodrigo Neto 🖐️   
 ##  Front-End  Developer<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigonet0&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigonet0" /> </p>
 
+👋 Hi there! I'm a passionate technology enthusiast and a dedicated student on a continuous journey of learning and growth. My curiosity drives me to explore new areas and constantly improve my skills, and I enjoy tackling challenges and working on innovative projects.
+
+💡 I’m committed to building meaningful and efficient solutions, whether working independently or as part of a team. With a focus on quality, attention to detail, and a relentless drive to enhance my technical expertise, I approach each project with creativity and enthusiasm.
+
+🌱 I'm always open to new opportunities, collaborations, and knowledge-sharing with fellow developers and tech enthusiasts. Let's connect and create something great together!
+
+<br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC88EMkEUKTQElLFO-hjBhEg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigo.neto)
